@@ -7,8 +7,11 @@ The dataset contains customer satisfaction scores from 120,000+ airline passenge
 
 Ambitions of this data exercise are to develop analysis on two topics:
 
-1) Analyse trends on flight usage
-  What age groups typically take shorter / longer haul flights?
-  What patterns emerge when looking at the gender / age distribution of different flight types, distances?
-2) From an airlines perspective, understand the key factors that drive satisfaction:
-  What are the key factors that drive dissatisfaction, and therefore where do airlines need to focus their attention?
+**1. Analyse trends on flight usage by different demographics**
+- *How does the class people travel in vary through different life stages?*
+- *How does the types of flights and distances people generally travel to vary at different life stages?*
+
+**2. From an airlines perspective, understand the key factors that drive satisfaction:**
+- *What is the overall experience scores by different demographics?*
+- *What are the key factors that drive dissatisfaction, and therefore where do airlines need to focus their attention?*
+- *How do votes vary depending on cabin class for the key issues?*
